@@ -1,3 +1,6 @@
-# angular-8-registration-login-example
+# angular-8 start Template with Login and Registration
 
-Angular 8 User Registration and Login Example with Webpack 4
+Angular-8 start Template
+Login
+Register
+Webpack 4
